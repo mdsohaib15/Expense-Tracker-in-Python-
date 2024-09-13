@@ -1,4 +1,3 @@
-For your Expense Tracker project, here's a possible title and description:
 
 ### **Title: Expense Tracker**
 
@@ -16,4 +15,3 @@ The Expense Tracker is a Python application designed to help users manage and mo
 
 This application helps users keep track of their spending and manage their budget effectively by providing a straightforward interface for expense management.
 
-Feel free to modify the title and description based on your specific use case or additional features you may add!
